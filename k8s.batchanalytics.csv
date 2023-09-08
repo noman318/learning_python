@@ -1,0 +1,8 @@
+_id,data.No of Batches active,data.Total Number of batches run,data.Flashpoints Observed,view,__v,data.State,data.Number of batches run,data.Total unique FPs,data.MT pairing,data.Assessment completion,data.Class discipline,data.Class engagement,data.Batch,data.Program date,data.Primary Coach,data.Secondary Coach,data.MT pair,data.class engagement,data.Start and End Time
+64ef42cae52dc72ef415de68,44,12,12,snapshot,0,,,,,,,,,,,,,,
+64ef42cae52dc72ef415de69,,,,summary,0,Maharahstra,6,3,2,1,0,0,,,,,,,
+64ef42cae52dc72ef415de6a,,,,summary,0,Bihar,10,2,0,0,4,2,,,,,,,
+64ef42cae52dc72ef415de6b,,,,summary,0,Goa,9,3,1,0,4,0,,,,,,,
+64ef42cae52dc72ef415de6c,,,,detail,0,,,,,23/35,,,Batch 1,1st Aug,Winston,Amar,AB,28/23/34/32,12:30 and 4:30
+64ef42cae52dc72ef415de6d,,,,detail,0,,,,,28/35,,,Batch 2,2nd Aug,Akash,Akram,AC,28/29/34/32,12:30 and 6:30
+64ef42cae52dc72ef415de6e,,,,detail,0,,,,,38/35,,,Batch 3,4th Aug,Mushir,Raju,B,28/0/34/32,12:30 and 2:30
